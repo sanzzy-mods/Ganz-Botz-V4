@@ -30,41 +30,41 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/' //Instagram mu
-global.sgh = 'https://github.com/' //Github mu
-global.swb = 'https://saweria.co/aripslayer'
-global.sfb = 'https://www.facebook.com/'
-global.syt = 'https://www.youtube.com/'
-global.syt = 'https://youtube.com/' //YT Mu
-global.sgc = 'https://chat.whatsapp.com/G84awYmL0fUEilc2zfTWl1' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/' //Discord Mu
+global.sig = 'https://instagram.com/imleviofc' //Instagram mu
+global.sgh = 'https://github.com/ImleviOfc' //Github mu
+global.swb = 'not found'
+global.sfb = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
+global.syt = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
+global.syt = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g' //YT Mu
+global.sgc = 'https://chat.whatsapp.com/Io11BFEwL2RAzIQBupUlAZ' //Group WhatsApp mu
+global.sdc = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '085802829541' //Dana
-global.povo = '-' //Ovo
-global.pgopay = '-' //Gopay
-global.ppulsa = '085802829541' //Pulsa 
-global.ppulsa2 = '085940685233' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/aripslayer' //Saweria
-global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Pulsa:* 085802829541\n│┝‷✧ *Dana:* 085802829541\n│┝‷✧ *Pulsa2:* 085940685233\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
+global.pdana = '085172446692' //Dana
+global.povo = '085172446692' //Ovo
+global.pgopay = '085172446692' //Gopay
+global.ppulsa = '085172446692' //Pulsa 
+global.ppulsa2 = '085172446692' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = 'not found' //Saweria
+global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Pulsa:* 085172446692\n│┝‷✧ *Dana:* 085172446692\n│┝‷✧ *Ovo:* 085172446692\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285940685233' //Nomor Bot mu
-global.nomorown = '6285802829541' //Nomormu
-global.namebot = 'Chaerinッ Botz' //Nama bot mu
-global.nameown = 'Arip Turu୧⍤⃝😴' //Nama mu
+global.nomorbot = '6281255466600' //Nomor Bot mu
+global.nomorown = '6285172446692' //Nomormu
+global.namebot = '𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' //Nama bot mu
+global.nameown = 'levi-yan-xhiao' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
-global.swo = 'https://wa.me/6285802829541' //Nomor mu
+global.swo = 'https://wa.me/6285172446692' //Nomor mu
 global.linksc = 'https://bit.ly/3PqdYYS' //Gausah di ganti, biar ga eror
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.botclick = '𝍤 CLICK HERE' //Bebas, Kalau gw saranin mending gausah di ganti.
-global.after = 'Bot By Arip Turu୧⍤⃝😴'
-global.author = '                © Chaerinッ Botz By Arip Turu୧⍤⃝😴' //Wm author
-global.acguest = 'Kamu akan Menggunakan akun guest dari Chaerinッ Botz\n\nClick Button di bawah.'
-global.botintro = 'Hallo, Kenalin saya Chaerinッ Botz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Arip Turu୧⍤⃝😴* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.after = 'Bot By levi-yan-xhiao'
+global.author = '                © 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉 𝙱𝚢 𝚕𝚎𝚟𝚒-𝚢𝚊𝚗-𝚡𝚑𝚒𝚊𝚘' //Wm author
+global.acguest = 'Kamu akan Menggunakan akun guest dari 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉\n\nClick Button di bawah.'
+global.botintro = 'Hallo, Kenalin saya 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *levi-yan-xhiao* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sc = 'https://telegra.ph/file/ff583768b40239651d69d.jpg'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
@@ -89,10 +89,10 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6285802829541'], //Owner1
-  ['6285802829541'], //Owner2
-  ['6285802829541'], //Owner3
-  ['6285802829541', 'Arip Turu୧⍤⃝😴 ! 🥶', true] //Ini buat kamu!
+  ['6285172446692'], //Owner1
+  ['6285172446692'], //Owner2
+  ['6285172446692'], //Owner3
+  ['6285172446692', 'levi-yan-xhiao', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -145,13 +145,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 Chaerinッ - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Arip - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 Chaerinッ - BOT'
+global.wm = '                「 赤 𝙳𝚁𝙰𝙶𝙾𝙽 - 𝙱𝙾𝚃𝚉 ⁩இ 」' //Wm
+global.wm2 = '➳༻❀levi - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 𝙳𝚁𝙰𝙶𝙾𝙽 - 𝙱𝙾𝚃𝚉'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: Arip Turu୧⍤⃝😴' //Ganti serah lu
+global.titlebot = '𝐈𝐆: @imleviofc' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
@@ -467,11 +467,11 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'Arip Turu୧⍤⃝😴'
-global.umurowner = '🗿'
-global.asalowner = '🗿, Jawa tengah'
-global.nomorowner = 'wa.me/6285802829541'
-global.pacarowner = 'Ga ada pacar'
+global.nameowner = 'levi-yan-xhiao'
+global.umurowner = '14'
+global.asalowner = 'suaran, Kalimantan timur'
+global.nomorowner = 'wa.me/6285172446692'
+global.pacarowner = 'INISIAL Q'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
 global.dmenut = '╭━•〔' //top
@@ -501,9 +501,9 @@ global.fpagedoc = '1'.repeat(10)
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'Chaerinッ Botz'
-global.stickauth = `© Chaerinッ Botz\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By Arip Turu୧⍤⃝😴'
+global.stickpack = '𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉'
+global.stickauth = `© 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By levi-yan-xhiao'
 
 
 global.multiplier = 38 // The higher, The harder levelup
