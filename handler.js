@@ -1060,7 +1060,7 @@ ${nmsr} Perintah ini hanya untuk *Admin* grup !`,
         botAdmin: `*${htki} 𝗜𝗡𝗙𝗢 ${htka}*\n
 ${nmsr} Jadikan bot sebagai *Admin* untuk menggunakan perintah ini !`,
         unreg: `*${htki} 𝗦𝗘𝗥𝗩𝗘𝗥 ${htka}*\n
-${nmsr} Silahkan daftar ke database terlebih dahulu untuk menggunakan bot ini lebih lanjut *Ketik:*\n\n*#daftar nama.umur*\n\nContoh: *#daftar Fangz.15*`,
+${nmsr} Silahkan daftar ke database terlebih dahulu untuk menggunakan bot ini lebih lanjut *Ketik:*\n\n*#daftar nama.umur*\n\nContoh: *#daftar levi.14*`,
         nsfw: `*${htki} 𝗜𝗡𝗙𝗢 ${htka}*\n
 ${nmsr} NSFW tidak aktif, Silahkan hubungi Team Bot Discussion untuk mengaktifkan fitur ini !`,
         rpg: `*${htki} 𝗜𝗡𝗙𝗢 ${htka}*\n
