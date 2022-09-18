@@ -6,34 +6,34 @@ const sections = [
    {
 	title: `✃ STATS`,
 	rows: [
-	    {title: "ଘ 📊Test Speed", rowId: '.testspeed', description: '╰►Test Speed Fangz BOT' },
+	    {title: "ଘ 📊Test Speed", rowId: '.testspeed', description: '╰►Test Speed 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
 	    {title: "ଘ 📉Stats Server", rowId: '.statserver', description: '╰►Status server BOT' },
 	    {title: "ଘ 💻Bot Info", rowId: '.botinfo', description: '╰►Info Server BOT' },
-	{title: "ଘ 👤Nama Creator", rowId: '.nameown', description: '╰►Developer Fangz BOT' },
-	{title: "ଘ 💰Donasi", rowId: '.donasi', description: '╰►Support Fangz Agar on 24 Jam' },
+	{title: "ଘ 👤Nama Creator", rowId: '.nameown', description: '╰►Developer 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
+	{title: "ଘ 💰Donasi", rowId: '.donasi', description: '╰►Support levi Agar on 24 Jam' },
 	]
     }, {
     title: `✃ INFO`,
 	rows: [
-	    {title: "ଘ 📖Rules", rowId: '.rules', description: '╰►S&K Fangz BOT' },
+	    {title: "ଘ 📖Rules", rowId: '.rules', description: '╰►S&K 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
 	    {title: "ଘ ⛔No Menu", rowId: '', description: '╰►No menu' },
 	    {title: "ଘ 📑Event", rowId: '.event', description: '╰►Event Dari Kami' },
-	{title: "ଘ ⚡Speed", rowId: '.speed', description: '╰►Speed Fangz BOT' },
-	{title: "ଘ 💵Sewa BOT", rowId: '.sewa', description: '╰►Sewa Fangz BOT' },
-	{title: "ଘ 🗣️Request Fitur", rowId: '.request', description: '╰►Request Fitur Fangz BOT' },
-	{title: "ଘ 🌏Lokasi BOT", rowId: '.loc2', description: '╰►Lokasi Fangz BOT' },
-	{title: "ଘ 🧰Version Bot", rowId: '.cekversi', description: '╰►Versi Fangz BOT' },
-	{title: "ଘ 🤖Sapa Bot", rowId: '.salken', description: '╰►Menyapa Fangz BOT' },
+	{title: "ଘ ⚡Speed", rowId: '.speed', description: '╰►Speed 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
+	{title: "ଘ 💵Sewa BOT", rowId: '.sewa', description: '╰►Sewa 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
+	{title: "ଘ 🗣️Request Fitur", rowId: '.request', description: '╰►Request Fitur 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
+	{title: "ଘ 🌏Lokasi BOT", rowId: '.loc2', description: '╰►Lokasi 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
+	{title: "ଘ 🧰Version Bot", rowId: '.cekversi', description: '╰►Versi 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
+	{title: "ଘ 🤖Sapa Bot", rowId: '.salken', description: '╰►Menyapa 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
 	]
     },{
     title: `✃ INFO BOT`,
 	rows: [
-	    {title: "ଘ 🧰Version Bot", rowId: '.cekversi', description: '╰►Versi Fangz BOT' },
-	    {title: "ଘ 🌏Lokasi BOT", rowId: '.loc2', description: '╰►Lokasi Fangz BOT' },
-	{title: "ଘ 🤖Sapa Bot", rowId: '.salken', description: '╰►Menyapa Fangz BOT' },
-	{title: "ଘ ⚡Speed Bot", rowId: '.speed', description: '╰►Speed Fangz BOT' },
+	    {title: "ଘ 🧰Version Bot", rowId: '.cekversi', description: '╰►Versi 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
+	    {title: "ଘ 🌏Lokasi BOT", rowId: '.loc2', description: '╰►Lokasi 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
+	{title: "ଘ 🤖Sapa Bot", rowId: '.salken', description: '╰►Menyapa 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
+	{title: "ଘ ⚡Speed Bot", rowId: '.speed', description: '╰►Speed 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
 	{title: "ଘ 🔧 Customer Service", rowId: '.complaint', description: '╰►Laporkan keluhan mu di sini...' },
-	{title: "ଘ 📊Status Bot", rowId: '.botstats', description: '╰►Sistem Fangz BOT' },
+	{title: "ଘ 📊Status Bot", rowId: '.botstats', description: '╰►Sistem 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' },
 	]
     },
 ]
