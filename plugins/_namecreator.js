@@ -13,13 +13,13 @@ const message = {
                 {
                     urlButton: {
                         displayText: '🌹YT OWNER',
-                        url: 'https://s.id/-1a7RO',
+                        url: 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g',
                     }
                 },
                 {
                     urlButton: {
                         displayText: '📞 Author',
-                        url: 'https://wa.me/6288215689772',
+                        url: 'https://wa.me/6285172446692',
                     }
                 },
                 {
