@@ -42,7 +42,7 @@
     "processedHistoryMessages": [
       {
         "key": {
-          "remoteJid": "6285702255815@s.whatsapp.net",
+          "remoteJid": "6281255466600@s.whatsapp.net",
           "fromMe": true,
           "id": "608970218405B7CCCFF41B1FE8F47383"
         },
@@ -50,7 +50,7 @@
       },
       {
         "key": {
-          "remoteJid": "6285702255815@s.whatsapp.net",
+          "remoteJid": "6281255466600@s.whatsapp.net",
           "fromMe": true,
           "id": "2B14717651FA21C61DC9352FC5C8ACF4"
         },
@@ -69,14 +69,14 @@
       "deviceSignature": "Ji+4SFwvyN6egVIWCIcuLt6LJvjDhD9T/qfbjnxTCtnx2VXLbfvxQQD6uoTWUsdPxudtiIaBY3rFIL2np20cAA=="
     },
     "me": {
-      "id": "6285702255815:27@s.whatsapp.net",
-      "name": "AzzBot-MD",
+      "id": "6281255466600:27@s.whatsapp.net",
+      "name": "dragon-botz",
       "jid": "6285702255815@s.whatsapp.net"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "6285702255815:27@s.whatsapp.net",
+          "name": "6281255466600:27@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
