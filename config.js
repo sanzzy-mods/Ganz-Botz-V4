@@ -52,7 +52,7 @@ global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '6281255466600' //Nomor Bot mu
 global.nomorown = '6285172446692' //Nomormu
-global.namebot = '𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' //Nama bot mu
+global.namebot = '𝙍𝙮𝙪𝙪-𝙗𝙤𝙩𝙯𝙯' //Nama bot mu
 global.nameown = 'levi-yan-xhiao' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
@@ -62,9 +62,9 @@ global.linksc = 'https://bit.ly/3PqdYYS' //Gausah di ganti, biar ga eror
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.botclick = '𝍤 CLICK HERE' //Bebas, Kalau gw saranin mending gausah di ganti.
 global.after = 'Bot By levi-yan-xhiao'
-global.author = '                © 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉 𝙱𝚢 𝚕𝚎𝚟𝚒-𝚢𝚊𝚗-𝚡𝚑𝚒𝚊𝚘' //Wm author
-global.acguest = 'Kamu akan Menggunakan akun guest dari 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉\n\nClick Button di bawah.'
-global.botintro = 'Hallo, Kenalin saya 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *levi-yan-xhiao* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.author = '                © 𝙍𝙮𝙪𝙪 𝙗𝙤𝙩𝙯𝙯 𝙱𝚢 𝚕𝚎𝚟𝚒-𝚢𝚊𝚗-𝚡𝚑𝚒𝚊𝚘' //Wm author
+global.acguest = 'Kamu akan Menggunakan akun guest dari 𝙍𝙮𝙪𝙪 𝙗𝙤𝙩𝙯𝙯\n\nClick Button di bawah.'
+global.botintro = 'Hallo, Kenalin saya 𝙍𝙮𝙪𝙪 𝙗𝙤𝙩𝙯𝙯 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *levi-yan-xhiao* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sc = 'https://telegra.ph/file/ff583768b40239651d69d.jpg'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
@@ -145,9 +145,9 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 𝙳𝚁𝙰𝙶𝙾𝙽 - 𝙱𝙾𝚃𝚉 ⁩இ 」' //Wm
+global.wm = '                「 赤 𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉𝚉 ⁩இ 」' //Wm
 global.wm2 = '➳༻❀levi - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 𝙳𝚁𝙰𝙶𝙾𝙽 - 𝙱𝙾𝚃𝚉'
+global.wm3 = '赤 𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉𝚉'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
@@ -501,8 +501,8 @@ global.fpagedoc = '1'.repeat(10)
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = '𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉'
-global.stickauth = `© 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickpack = '𝚁𝚈𝚄𝚄 𝙱𝙾𝚃𝚉𝚉'
+global.stickauth = `© 𝚁𝚈𝚄𝚄 𝙱𝙾𝚃𝚉𝚉\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
 global.packname = 'By levi-yan-xhiao'
 
 
