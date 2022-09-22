@@ -4,13 +4,13 @@ let info = `
 `
 const sections = [
    {
-	title: `𝗝𝗢𝗜𝗡 𝗞𝗘 𝗚𝗥𝗨𝗣 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗦𝗛𝗜𝗡𝗡 𝗕𝗢𝗧*\n\n\n━━━〔 Dᴏɴ'ᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕━━━`,
+	title: `𝗝𝗢𝗜𝗡 𝗞𝗘 𝗚𝗥𝗨𝗣 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯*\n\n\n━━━〔 Dᴏɴ'ᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕━━━`,
 	rows: [
-	    {title: '💌 › Group Random Botz', description: "Group Utama 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉", rowId:".gcbot"},
+	    {title: '💌 › Group Random Botz', description: "Group Utama 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯", rowId:".gcbot"},
         {title: '✉️ › Grup Anime', description: "Group Kedua", rowId:".gcbot2"},
         {title: '📧 › Group Full Bot', description: "Gruop Ketiga", rowId:".gcbot3"},
-        {title: '🎐 › Owner', description: "Creator 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉 >ω<", rowId:".owner"},
-        {title: '🧿 › Info Fangz BOT', description: "Info 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉 >ω<", rowId:".info"},
+        {title: '🎐 › Owner', description: "Creator 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯 >ω<", rowId:".owner"},
+        {title: '🧿 › Info 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯', description: "Info 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯 >ω<", rowId:".info"},
         {title: '📮 › Donasi', description: "Donasi Untuk Levi ≧▽≦", rowId:".donasi"},
 	    ]
       },
