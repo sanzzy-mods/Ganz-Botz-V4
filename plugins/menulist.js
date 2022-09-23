@@ -197,19 +197,19 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} ▮𝗦𝘁𝗮𝘁𝘂𝘀 」 ${htka}`,
 	rows: [
-	    {title: `📛)ഒ Info Bot`, rowId: ".info", description: "✧ Info nya 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉 ><"},
+	    {title: `📛)ഒ Info Bot`, rowId: ".info", description: "✧ Info nya 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯 ><"},
 	    {title: `💌)ഒ Owner`, rowId: ".owner", description: "✧ Ini Room Developer ku ^~^"},
 	{title: `🗣)ഒ Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
-	{title: `💻)ഒ Bot Stats`, rowId: ".botinfo", description: "✧ Menampilkan Status 赤 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉"},
+	{title: `💻)ഒ Bot Stats`, rowId: ".botinfo", description: "✧ Menampilkan Status 赤 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯"},
 	{title: `📊)ഒ Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
-	{title: `⚡)ഒ Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉..."},
+	{title: `⚡)ഒ Speed`, rowId: ".ping", description: "✧ Kecepatan Respon 赤 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯..."},
 	]
     },{
 	title: `${htki} ▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」 ${htka}`,
 	rows: [
 	    {title: `🔖 〉ɞ 『 Sewa BOT 』`, rowId: ".sewabot", description: "✧ Menampilkan list harga sewa BOT"},
 	    {title: `📑 〉ɞ 『 Buy Script BOT 』`, rowId: ".owner", description: "✧ Menampilkan list harga script BOT"},
-	    {title: `🌟 〉ɞ 『 UP Premium 』`, rowId: ".premium", description: "✧ Menampilkan list harga upgrade premium"},
+	    {title: `🌟 〉ɞ 『 UP Premium 』`, rowId: ".sewapremium", description: "✧ Menampilkan list harga upgrade premium"},
 	    {title: `🥞 〉ɞ 『 Get Hadiah 』`, rowId: ".daily", description: '✧ Mau hadiah nggak kak?... >.<'},
 	{title: `✨ 〉ɞ 『 Rating 』`, rowId: ".rate", description: '✧ Jangan kasih rate rendah dong :/'},
 	{title: `🗳️ 〉ɞ 『 My Profile 』`, rowId: ".profile", description: '✧ Siapa ya kamu?...'},
@@ -272,7 +272,7 @@ let usrs = db.data.users[m.sender]
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
  
 let tek = `
-  「 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉 ⁩㊣ 」
+  「 𝚁𝚈𝚄𝚄-𝙱𝙾𝚃𝚉𝚉 ⁩㊣ 」
 
  ╭──〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑  〕─⬣ 
  │⬡ User :  *${await conn.getName(m.sender)}*
@@ -591,7 +591,7 @@ function _0x1766() {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://fangzbot.websites.co.in/'
+                        url: 'https://instagram.com/imleviofc'
                     }
                 },
                 {
