@@ -18,9 +18,9 @@ if (m.isBaileys) return
             await this.sendMessage(m.chat, { sticker : stc, thumbnail: await( await fetch(pp)).buffer() , contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
 mediaUrl: sig,
-title: 'FANGZ SIBUK ❗',
+title: 'LEVI SIBUK ❗',
 body: bottime,
-sourceUrl: 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM',
+sourceUrl: 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6',
 thumbnail: await( await fetch(pp)).buffer()
   }
  }}, { quoted: m })
