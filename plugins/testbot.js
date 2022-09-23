@@ -8,7 +8,7 @@ const sections = [
    {
     title: `✃ INFO`,
 	rows: [
-	    {title: "🗃️Menu", rowId: '.menu', description: 'Event Fangz BOT' },
+	    {title: "🗃️Menu", rowId: '.menu', description: 'Event 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯' },
 	{title: "🎀YT Bot", rowId: '.ytbot', description: 'Youtube Bot' },
 	]
     }, {
