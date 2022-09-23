@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `${htki} *TUTORIAL* ${htka}
 
 *📮 Command Termux:*
-Command termux Fangz Bot
+Command termux Ryuu Botzz
 ⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬
 
 
@@ -51,7 +51,7 @@ $ node .
 [ 📣 Note : Tanda $ Ga Perlu Di Ketik ]
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: '🌎Script', url: 'https://s.id/-1a7RO'}},
+    {index: 1, urlButton: {displayText: '🌎Script', url: 'https://github.com/levi-yan-xhiao'}},
 ]
 let tm = {
 text: text,
