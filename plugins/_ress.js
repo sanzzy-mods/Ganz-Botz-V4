@@ -18,7 +18,7 @@ mediaType:  1,
 mediaUrl: sig,
 title: 'APA KONTOL ❗',
 body: wm,
-sourceUrl: 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM',
+sourceUrl: 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6',
 thumbnail: await( await fetch(pp)).buffer()
   }
  }}, { quoted: m })
