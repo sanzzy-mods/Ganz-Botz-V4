@@ -60,7 +60,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
 ┗━━━━━━━━━━㉿ 
 ⫹⫺ 
 ⫹⫺`, 
-   footer: `┗ © FangzXD*`, 
+   footer: `┗ © levi-yan-xhiao*`, 
    title: "", 
    buttonText: "CLICK HERE", 
    sections 
