@@ -1,7 +1,7 @@
 import fs from 'fs'
 import fetch from 'node-fetch'
 let handler  = async (m, { conn, usedPrefix: _p }) => {
-let info = `Bot ini menggunakan script by FangzXD\n\n*Version:* Private Edition V3`
+let info = `Bot ini menggunakan script by levi-yan-xhiao\n\n*Version:* Private Edition V3`
 
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 const message = {
@@ -13,13 +13,13 @@ const message = {
                 {
                     urlButton: {
                         displayText: 'Download Sc',
-                        url: 'https://bit.ly/3SzhgLV'
+                        url: 'https://github.com/levi-yan-xhiao'
                     }
                 },
                 {
                     urlButton: {
                         displayText: 'Ke YouTube',
-                        url: 'https://youtu.be/UOL_t5iwOPo',
+                        url: 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g',
                     }
                 },
             ]
