@@ -272,29 +272,31 @@ let usrs = db.data.users[m.sender]
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
  
 let tek = `
-  「 𝚁𝚈𝚄𝚄-𝙱𝙾𝚃𝚉𝚉 ⁩㊣ 」
+  「 𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉 ⁩㊣ 」
 
- ╭──〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑  〕─⬣ 
- │⬡ User :  *${await conn.getName(m.sender)}*
- │⬡ Premium : *${usrs.premiumTime > 1 ? 'Yes': 'No'}* 
- │⬡ Name : *${await conn.getName(m.sender)}*
- │⬡ Status : *${m.sender.split`@`[0] == nomorown ? 'Developer' : (usrs.premiumTime >= 1 ? 'Premium User' : 'Free User')}* 
- │⬡ Api :  @${m.sender.split`@`[0]}
- ┌──〔  𝐓 𝐎 𝐃 𝐀 𝐘  〕───⬣ 
- │⬡ Wib : *${moment.tz('Asia/Jakarta').format('HH:mm:ss')}*
- │⬡ Wita : *${moment.tz('Asia/Makassar').format('HH:mm:ss')}*
- │⬡ Wit : *${moment.tz('Asia/Jayapura').format('HH:mm:ss')}*
- │⬡ Date : *${new Date().toLocaleDateString()}*
- ┌──〔  𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄  〕───⬣ 
- │⬡ Uptimw : ${mpt}
- │⬡ Register :  *${Object.values(global.db.data.users).filter(user => user.registered == true).length}*
- │⬡ Unreg : *${Object.keys(global.db.data.users).length}*
- │⬡ Os Platform : *${os.platform()}*
- ╰─────────────⬣
+ ╭─────〔 *INFO USER* 〕
+ ├ • 𝚄𝚂𝙴𝚁 :  *${await conn.getName(m.sender)}*
+ ├ • 𝙿𝙴𝚁𝙼𝙸𝚄𝙼 : *${usrs.premiumTime > 1 ? 'Yes': 'No'}* 
+ ├ • 𝙽𝙰𝙼𝙴 : *${await conn.getName(m.sender)}*
+ ├ • 𝚂𝚃𝙰𝚃𝚄𝚂 : *${m.sender.split`@`[0] == nomorown ? 'Developer' : (usrs.premiumTime >= 1 ? 'Premium User' : 'Free User')}* 
+ ├ • 𝙰𝙿𝙸 :  @${m.sender.split`@`[0]}
+ ╰─────────❍
+ ╭─────〔 *TODAY* 〕
+ ├ • 𝚆𝙸𝙱 : *${moment.tz('Asia/Jakarta').format('HH:mm:ss')}*
+ ├ • 𝚆𝙸𝚃𝙰 : *${moment.tz('Asia/Makassar').format('HH:mm:ss')}*
+ ├ • 𝚆𝙸𝚃 : *${moment.tz('Asia/Jayapura').format('HH:mm:ss')}*
+ ├ • 𝙳𝙰𝚃𝙴 : *${new Date().toLocaleDateString()}*
+ ╰─────────❍
+ ╭─────〔 *DATABASE* 〕
+ ├ • 𝚄𝙿𝚃𝙸𝙼𝙴 : ${mpt}
+ ├ • 𝚁𝙴𝙶𝙸𝚂𝚃𝙴𝚁 :  *${Object.values(global.db.data.users).filter(user => user.registered == true).length}*
+ ├ • 𝚄𝙽𝚁𝙴𝙶 : *${Object.keys(global.db.data.users).length}*
+ ├ • 𝙾𝚂 𝙿𝙻𝙰𝚃𝙵𝚁𝙾𝙼 : *${os.platform()}*
+ ╰─────────❍
 `
 const listMessage = {
   text: tek,
-  footer: '© LEVI-YAN-XHIAO | ALL RESERVED',
+  footer: 'Bot By Ryuu - Kawai ><',
   mentions: await conn.parseMention(tek),
   title: ``,
   buttonText: `LIST MENU`,
@@ -562,7 +564,7 @@ await conn[_0x187932(0x1c2)](m[_0x187932(0x1cf)], buttonMessage, {
                 mediaUrl: "https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=",
                 mediaType: "VIDEO",
                 title: '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦',
-                body: 'Source Code By levi-yan-xhiao',
+                body: 'Source Code By Ryuu - Botz',
                 previewType: 0,
                 thumbnail: img
             }
