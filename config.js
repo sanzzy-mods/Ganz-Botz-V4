@@ -52,8 +52,8 @@ global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '6281255466600' //Nomor Bot mu
 global.nomorown = '6285172446692' //Nomormu
-global.namebot = '𝙍𝙮𝙪𝙪-𝙗𝙤𝙩𝙯𝙯' //Nama bot mu
-global.nameown = 'levi-yan-xhiao' //Nama mu
+global.namebot = '𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉' //Nama bot mu
+global.nameown = 'RYUU KAWAI ><' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
@@ -61,10 +61,10 @@ global.swo = 'https://wa.me/6285172446692' //Nomor mu
 global.linksc = 'https://bit.ly/3PqdYYS' //Gausah di ganti, biar ga eror
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.botclick = '𝍤 CLICK HERE' //Bebas, Kalau gw saranin mending gausah di ganti.
-global.after = 'Bot By levi-yan-xhiao'
-global.author = '                © 𝙍𝙮𝙪𝙪 𝙗𝙤𝙩𝙯𝙯 𝙱𝚢 𝚕𝚎𝚟𝚒-𝚢𝚊𝚗-𝚡𝚑𝚒𝚊𝚘' //Wm author
-global.acguest = 'Kamu akan Menggunakan akun guest dari 𝙍𝙮𝙪𝙪 𝙗𝙤𝙩𝙯𝙯\n\nClick Button di bawah.'
-global.botintro = 'Hallo, Kenalin saya 𝙍𝙮𝙪𝙪 𝙗𝙤𝙩𝙯𝙯 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *levi-yan-xhiao* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.after = 'Bot By RYUU KAWAI ><'
+global.author = '©𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉' //Wm author
+global.acguest = 'Kamu akan Menggunakan akun guest dari 𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉\n\nClick Button di bawah.'
+global.botintro = 'Hallo, Kenalin saya 𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *𝚁𝚈𝚄𝚄 𝙺𝙰𝚆𝙰𝙸 ><* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sc = 'https://telegra.ph/file/ff583768b40239651d69d.jpg'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
@@ -89,10 +89,10 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6285172446692'], //Owner1
+  ['6281255466600'], //Owner1
   ['6285172446692'], //Owner2
-  ['6285172446692'], //Owner3
-  ['6285172446692', 'levi-yan-xhiao', true] //Ini buat kamu!
+  ['6281255466600'], //Owner3
+  ['6285172446692', '𝚁𝚈𝚄𝚄 - 𝙺𝙰𝚆𝙰𝙸 ><', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -145,9 +145,9 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉𝚉 ⁩இ 」' //Wm
-global.wm2 = '➳༻❀levi - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉𝚉'
+global.wm = '                「 赤 𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉 ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Ryuu - Kawai❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
@@ -467,7 +467,7 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'levi-yan-xhiao'
+global.nameowner = '©RYUU - KAWAI ><'
 global.umurowner = '14'
 global.asalowner = 'suaran, Kalimantan timur'
 global.nomorowner = 'wa.me/6285172446692'
@@ -501,9 +501,9 @@ global.fpagedoc = '1'.repeat(10)
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = '𝚁𝚈𝚄𝚄 𝙱𝙾𝚃𝚉𝚉'
-global.stickauth = `© 𝚁𝚈𝚄𝚄 𝙱𝙾𝚃𝚉𝚉\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By levi-yan-xhiao'
+global.stickpack = '𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉'
+global.stickauth = `© 𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By RYUU KAWAI ><'
 
 
 global.multiplier = 38 // The higher, The harder levelup
