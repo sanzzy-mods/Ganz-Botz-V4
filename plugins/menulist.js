@@ -197,12 +197,12 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} ▮𝗦𝘁𝗮𝘁𝘂𝘀 」 ${htka}`,
 	rows: [
-	    {title: `📛)ഒ Info Bot`, rowId: ".info", description: "✧ Info nya 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯 ><"},
+	    {title: `📛)ഒ Info Bot`, rowId: ".info", description: "✧ Info nya Levi ><"},
 	    {title: `💌)ഒ Owner`, rowId: ".owner", description: "✧ Ini Room Developer ku ^~^"},
 	{title: `🗣)ഒ Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
-	{title: `💻)ഒ Bot Stats`, rowId: ".botinfo", description: "✧ Menampilkan Status 赤 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯"},
+	{title: `💻)ഒ Bot Stats`, rowId: ".botinfo", description: "✧ Menampilkan Status 赤 Levi"},
 	{title: `📊)ഒ Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
-	{title: `⚡)ഒ Speed`, rowId: ".ping", description: "✧ Kecepatan Respon 赤 𝙍𝙮𝙪𝙪 𝘽𝙤𝙩𝙯𝙯..."},
+	{title: `⚡)ഒ Speed`, rowId: ".ping", description: "✧ Kecepatan Respon 赤 Levi..."},
 	]
     },{
 	title: `${htki} ▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」 ${htka}`,
@@ -272,7 +272,7 @@ let usrs = db.data.users[m.sender]
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
  
 let tek = `
-  「 𝚁𝚈𝚄𝚄 - 𝙱𝙾𝚃𝚉 ⁩㊣ 」
+  「 𝙻𝙴𝚅𝙸 - 𝙶𝙰𝙽𝚉 ⁩㊣ 」
 
  ╭─────〔 *INFO USER* 〕
  ├ • 𝚄𝚂𝙴𝚁 :  *${await conn.getName(m.sender)}*
@@ -296,7 +296,7 @@ let tek = `
 `
 const listMessage = {
   text: tek,
-  footer: 'Bot By Ryuu - Kawai ><',
+  footer: '𝙱𝙾𝚃 𝙱𝚈 𝙻𝙴𝚅𝙸 - 𝙶𝙰𝙽𝚉',
   mentions: await conn.parseMention(tek),
   title: ``,
   buttonText: `LIST MENU`,
